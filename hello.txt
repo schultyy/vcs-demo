@@ -1,4 +1,4 @@
-Hello World. Making a change. And another one.
+Hello World. Making a change. And another one. conflicting change
 Hi Group. How's it going?
 
 - points a
